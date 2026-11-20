@@ -1,1 +1,1 @@
-stores-condition-spray-ipaq.trycloudflare.com
+uniform-cas-freebsd-chip.trycloudflare.com
